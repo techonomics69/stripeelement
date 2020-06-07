@@ -1,2 +1,0 @@
-# stripeelement
-Created with CodeSandbox
